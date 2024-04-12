@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="Chapter1"/>
-	<classpathentry kind="src" path="Chapter2"/>
-	<classpathentry kind="src" path="Chapter3"/>
-	<classpathentry kind="src" path="Chapter4"/>
-	<classpathentry kind="src" path="Chapter5"/>
-	<classpathentry kind="src" path="Chapter6"/>
+	<classpathentry kind="src" path="Chapter1Introduction to Computers and Java"/>
+	<classpathentry kind="src" path="Chapter2JavaFundamentals"/>
+	<classpathentry kind="src" path="Chapter3DecisionStructures"/>
+	<classpathentry kind="src" path="Chapter4LoopsAndFiles"/>
+	<classpathentry kind="src" path="Chapter5Methods"/>
+	<classpathentry kind="src" path="Chapter6AFirstLookAtClasses"/>
+	<classpathentry kind="src" path="Chapter7ArraysAndTheArrayListClass"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
 		<attributes>
 			<attribute name="module" value="true"/>
