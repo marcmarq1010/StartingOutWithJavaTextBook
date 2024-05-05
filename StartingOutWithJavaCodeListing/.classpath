@@ -7,6 +7,8 @@
 	<classpathentry kind="src" path="Chapter5Methods"/>
 	<classpathentry kind="src" path="Chapter6AFirstLookAtClasses"/>
 	<classpathentry kind="src" path="Chapter7ArraysAndTheArrayListClass"/>
+	<classpathentry kind="src" path="Chapter8ASecondLookAtClassesAndObjects"/>
+	<classpathentry kind="src" path="Chapter9TextProcessingAndMoreAboutWrapperClasses"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
 		<attributes>
 			<attribute name="module" value="true"/>

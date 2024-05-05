@@ -17,6 +17,13 @@ public class RetailItem
 		setPrice(price);
 	}
 
+	public RetailItem(RetailItem item)
+	{
+		setDescription(item.getDescription());
+		setUnitsOnHand(item.getUnitsOnHand());
+		setPrice(item.getPrice());
+	}
+
 	public String getDescription()
 	{
 		return description;
